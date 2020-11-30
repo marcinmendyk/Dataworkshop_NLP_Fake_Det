@@ -1,2 +1,2 @@
 # Fake-News-Detector
-First edition of the NLP course competition organized by DataWorkshop. Top 2
+Hake news detector made as part of a course conducted by Dataworkshop
